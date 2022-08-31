@@ -95,12 +95,12 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: left;
   background: #fff;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 4px solid #a06917;
   border-radius: 6px;
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #7D0121;
 }
 
 ul.skills {
@@ -111,14 +111,14 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #7D0121;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
 .skills li:nth-child(odd) {
-  background: #0399ff;
+  background: #a06917;
 }
 
 footer {
@@ -163,6 +163,7 @@ a.github {
 }
 a.social:hover {
   opacity: 1;
+  
 }
 .clearfix {
   clear: both;
@@ -206,8 +207,3 @@ a.social:hover {
 
 }
 
-.scale{
-  height: 40%;
-  width:  100%;
-
-}
