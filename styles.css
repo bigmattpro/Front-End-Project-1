@@ -55,9 +55,10 @@ a:hover {
   color: white
 }
 
+/*Changed background image and alignment 8-31/2022*/
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/stripsignlv.jpg') no-repeat center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -205,3 +206,8 @@ a.social:hover {
 
 }
 
+.scale{
+  height: 40%;
+  width:  100%;
+
+}
